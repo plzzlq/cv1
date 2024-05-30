@@ -1,1 +1,1 @@
-https://plzzlq.github.io/cv/cv
+https://github.com/plzzlq/cv1/blob/gh-pages/cv.md
