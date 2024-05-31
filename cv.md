@@ -1,11 +1,11 @@
 Roman Grigoriev
 +375256729545
 Telegram: @plzzlq
-Хочу стать неотъемлемой частью коллектива и развивать компанию
+Goals: become a part of the team and help in the development of the company
 Purposeful
 С++
 Code example:
 int sum;
 sum = 2+2;
 cout >> sum
-Образование: управление информационными ресурсами, 1 курс
+Education: Information resource management, 1st year
