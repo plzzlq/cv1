@@ -1,10 +1,10 @@
-Роман Григорьев
+Roman Grigoriev
 +375256729545
-Телеграм: @plzzlq
+Telegram: @plzzlq
 Хочу стать неотъемлемой частью коллектива и развивать компанию
-Целеустремленный
+Purposeful
 С++
-Пример кода:
+Code example:
 int sum;
 sum = 2+2;
 cout >> sum
