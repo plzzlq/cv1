@@ -1,5 +1,4 @@
 Roman Grigoriev
-+375256729545
 Telegram: @plzzlq
 Goals: become a part of the team and help in the development of the company
 Purposeful
