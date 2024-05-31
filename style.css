@@ -1,1 +1,36 @@
-
+        body {
+            font-family: Arial, sans-serif;
+        }
+        .resume {
+            display: flex;
+            justify-content: space-between;
+            padding: 20px;
+        }
+        .resume_left {
+            width: 40%;
+        }
+        .resume_right {
+            width: 60%;
+        }
+        .resume_profile img {
+            width: 100px;
+            height: 100px;
+            border-radius: 50%;
+        }
+        .resume_item {
+            margin-bottom: 20px;
+        }
+        .resume_info ul {
+            list-style: none;
+            padding: 0;
+        }
+        .resume_skills ul {
+            list-style: none;
+            padding: 0;
+        }
+        .resume_social ul {
+            list-style: none;
+            padding: 0;
+        }
+        /* Дополнительные стили */
+        /* ... */
